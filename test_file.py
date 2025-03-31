@@ -1,4 +1,4 @@
-def (message):
+def mess(message):
     return print(f"{message} - will be merge")
 
-message("second file text")
+mess("second file text")
