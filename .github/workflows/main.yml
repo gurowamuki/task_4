@@ -1,13 +1,13 @@
-#test to run it
+# test to run it
 name: Python CI
 
 on:
   push:
     branches:
-      - main
+      - mater
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
